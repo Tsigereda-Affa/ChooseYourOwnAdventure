@@ -41,16 +41,7 @@ public class Main {
                            System.out.println("eat beans");
                        }else if (userInput.contains("Take a plate"))
                            System.out.println("Take a plate");
-//                System.out.println("you can drink milk");
-//            } else if{
-//                System.out.println("Eat leftovers");
-////            if (userInput.contains("Open refrigerator")) {
-////                System.out.println("You may open the \"refrigerator\"");
-////                userInput = sca.nextLine();
-////                if (userInput.contains("Drink strange milk"))
-////                    System.out.println("Drink strange milk");
-////                if (userInput.contains("Eat leftovers"))
-////                    System.out.println("Eat leftovers");
+
    } else if (userInput.contains("Upstairs")) {
 
               System.out.println("Upstairs you see a hallway.");
